@@ -1,0 +1,12 @@
+{
+  "name": "com.lokojigen.unityasyncbridge",
+  "version": "1.0.0",
+  "displayName": "Unity Async Bridge",
+  "description": "A lightweight Unity package for coroutine, async/await, and UniTask management with start/update/complete callbacks.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Loko Jigen",
+    "url": "https://github.com/LokoJigen"
+  },
+  "keywords": [ "async", "coroutines", "unitask", "unity", "prototyping" ]
+}
